@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\sudheer_week4\bin\Debug\sudheer_week4.exe.config
+C:\Users\lenovo\source\repos\sudheer_week4\bin\Debug\sudheer_week4.exe
+C:\Users\lenovo\source\repos\sudheer_week4\bin\Debug\sudheer_week4.pdb
+C:\Users\lenovo\source\repos\sudheer_week4\obj\Debug\sudheer_week4.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\sudheer_week4\obj\Debug\sudheer_week4.Form1.resources
+C:\Users\lenovo\source\repos\sudheer_week4\obj\Debug\sudheer_week4.Properties.Resources.resources
+C:\Users\lenovo\source\repos\sudheer_week4\obj\Debug\sudheer_week4.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\sudheer_week4\obj\Debug\sudheer_week4.exe
+C:\Users\lenovo\source\repos\sudheer_week4\obj\Debug\sudheer_week4.pdb
